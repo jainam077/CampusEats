@@ -1,0 +1,11 @@
+{
+  "mysql": {
+    "host": "localhost",
+    "port": 3306,
+    "database": "CampusEats",
+    "user": "root",
+    "password": "jainam1815"
+  },
+  "connection_timeout": 30,
+  "max_retries": 3
+}
