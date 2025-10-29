@@ -2,3 +2,8 @@ __pycache__/
 *.pyc
 .coverage
 .DS_Store
+# Ignore environment files
+supabaseDB/config.env
+.venv/
+__pycache__/
+*.pyc
