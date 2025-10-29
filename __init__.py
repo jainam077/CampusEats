@@ -1,1 +1,0 @@
-# CampusEats Application Package
