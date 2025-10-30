@@ -1,0 +1,11 @@
+{
+  "venues": [
+    { "id": 1, "name": "Patton Dining Hall", "desc": "Classic campus dining" },
+    { "id": 2, "name": "Piedmont Central", "desc": "International cuisine" }
+  ],
+  "menus": [
+    { "id": 101, "venueId": 1, "name": "Avocado Toast", "tags": ["vegetarian"] },
+    { "id": 102, "venueId": 2, "name": "Chicken Wrap", "tags": ["lunch"] }
+  ],
+  "reviews": []
+}
