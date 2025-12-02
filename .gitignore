@@ -1,17 +1,65 @@
+# Environment variables - NEVER COMMIT THESE
+.env
+.env.*
+.env.local
+.env.development
+.env.production
+*.env
+
+# Microsoft Word temp files
+~$*.doc
+~$*.docx
+
+# Backup folders (keep locally, exclude from repo)
+backups/
+
 # Python
 __pycache__/
 *.py[cod]
-*.so
-
-# Environments
-.env
+*$py.class
+.Python
 .venv/
-env/
 venv/
+ENV/
+.pytest_cache/
 
-# SQLite
-*.db
+# Node
+node_modules/
+.next/
+out/
+dist/
+build/
+*.tsbuildinfo
+
+# iOS/Xcode
+*.xcuserstate
+xcuserdata/
+DerivedData/
+*.ipa
+*.dSYM.zip
+*.dSYM
 
 # IDE
 .vscode/
 .idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Testing
+coverage/
+.nyc_output/
+
+# Misc
+*.bak
+*.tmp
