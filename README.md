@@ -123,15 +123,6 @@ docker-compose -f docker-compose.monitoring.yml up -d
 
 ---
 
-## 👥 Team OMAJ
-
-- **O** - Developer
-- **M** - Developer  
-- **A** - Developer
-- **J** - Developer
-
----
-
 ## 📄 License
 
 This project was created for educational purposes as part of a Software Engineering course.
