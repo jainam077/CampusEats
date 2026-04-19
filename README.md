@@ -1,4 +1,4 @@
-# 🍽️ Campus Eats
+# Campus Eats
 
 **A comprehensive campus dining platform that helps students discover, review, and track meals across university dining halls.**
 
@@ -6,7 +6,7 @@ Built by **Team OMAJ** for Software Engineering CTW.
 
 ---
 
-## 📱 Project Overview
+##  Project Overview
 
 Campus Eats is a full-stack application featuring:
 - **Web App** - Next.js 16 with Tailwind CSS
@@ -17,7 +17,7 @@ Campus Eats is a full-stack application featuring:
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 campus-eats/
@@ -31,7 +31,7 @@ campus-eats/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js 18+
@@ -88,28 +88,28 @@ docker-compose -f docker-compose.monitoring.yml up -d
 
 ---
 
-## ✨ Features
+##  Features
 
 ### Core Features
-- 🔍 **Smart Search** - Find dishes by name, cuisine, or dietary preferences
-- ⭐ **Reviews & Ratings** - Rate and review dishes
-- ❤️ **Favorites** - Save your favorite meals
-- 📊 **Nutrition Tracking** - Track calories, protein, carbs, and fat
+-  **Smart Search** - Find dishes by name, cuisine, or dietary preferences
+-  **Reviews & Ratings** - Rate and review dishes
+-  **Favorites** - Save your favorite meals
+-  **Nutrition Tracking** - Track calories, protein, carbs, and fat
 
 ### AI-Powered Features
-- 🤖 **AI Chat Assistant** - Get personalized food recommendations
-- 🎯 **Smart Recommendations** - Based on dietary preferences and history
-- 🗣️ **Voice Search** - Search by speaking (iOS)
+-  **AI Chat Assistant** - Get personalized food recommendations
+-  **Smart Recommendations** - Based on dietary preferences and history
+-  **Voice Search** - Search by speaking (iOS)
 
 ### Advanced Features
-- 📍 **Location-Based Menus** - Auto-detect nearby dining halls
-- 🔔 **Smart Notifications** - Alerts for favorite dishes being served
-- 📈 **Live Trending** - See what's popular right now
-- 🥗 **Meal Builder** - Build balanced meals with nutrition goals
+-  **Location-Based Menus** - Auto-detect nearby dining halls
+-  **Smart Notifications** - Alerts for favorite dishes being served
+-  **Live Trending** - See what's popular right now
+-  **Meal Builder** - Build balanced meals with nutrition goals
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |-------|------------|
@@ -123,7 +123,7 @@ docker-compose -f docker-compose.monitoring.yml up -d
 
 ---
 
-## 📄 License
+##  License
 
 This project was created for educational purposes as part of a Software Engineering course.
 
